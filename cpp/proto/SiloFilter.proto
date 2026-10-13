@@ -1,0 +1,34 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+
+// 这个作用是进行逻辑隔离，比如被翻译为namespace
+package silofilter;
+
+service SiloFilter {
+    // condition应该是用户发过去，因为vector的silo不需要知道condition
+    rpc sendCondition(conditonReq) returns (google.protobuf.Empty);
+    rpc sendVector(vectorReq) returns (vectorResp);
+    rpc testRoundTime(vectorReq) returns (google.protobuf.Empty);
+    rpc getProportion(google.protobuf.Empty) returns (proportionResp);
+    rpc requestComm(google.protobuf.Empty) returns (rpcComm) {}
+}
+
+message conditonReq {
+    string condition = 1;
+}
+
+message vectorReq {
+    repeated int32 idList = 1;
+}
+
+message vectorResp {
+    repeated int32 idList = 1;
+}
+
+message proportionResp {
+    float proportion = 1;
+}
+
+message rpcComm {
+    int64 rpcDataNum = 1;
+}

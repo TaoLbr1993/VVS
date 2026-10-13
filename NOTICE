@@ -1,0 +1,17 @@
+FedVS
+Copyright 2025 iuiou
+
+This product includes software developed by iuiou (https://github.com/iuiou/FedVS).
+
+---------------------------------------------------------------------
+
+Third-Party Components:
+
+1. milvus-sdk-cpp
+   - License: Apache License 2.0
+   - Source: https://github.com/milvus-io/milvus-sdk-cpp
+
+2. PGM-index
+   - License: Apache License 2.0
+   - Source: https://github.com/gvinciguerra/PGM-index
+   - Copyright: Copyright (c) 2018 Giorgio Vinciguerra.

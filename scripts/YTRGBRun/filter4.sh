@@ -1,0 +1,15 @@
+#!/bin/bash
+
+ORIGINAL_DIR=$(pwd)
+cd ../../cpp/buildSQLite
+filter_id=4
+number=$((0*5 + ${filter_id}))
+data_path="../../testdata/res/YouTube-rgb/YouTube_${number}.fivecs"
+scalardata_path="../../testdata/res/YouTube-rgb/meta_${number}.txt"
+table_name="filter_${number}"
+sql_db_name="../../database/filter_YouTube-rgb.db"
+ipaddr=localhost:50061
+
+./filter --ip=$ipaddr --sql-db-name=$sql_db_name --data-name=$data_path --scalar-name=$scalardata_path --table-name=$table_name
+
+cd $ORIGINAL_DIR

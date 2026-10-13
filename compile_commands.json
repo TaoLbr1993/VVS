@@ -1,0 +1,232 @@
+[
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/filter.dir/Filter.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/Filter.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/Filter.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/user.dir/User.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/User.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/User.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++  -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite  -march=native -std=gnu++17 -o CMakeFiles/File_IO.dir/utils/File_IO.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/utils/File_IO.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/utils/File_IO.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -I/home/zhaoyanhao/project/FedVS/cpp/pgm -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/silo.dir/Silo.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/Silo.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/Silo.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCARES_STATICLIB -DUSE_TRUSTED_BROKER -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/broker.dir/Broker.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/Broker.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/Broker.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/grpc_proto.dir/BrokerSilo.grpc.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/BrokerSilo.grpc.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/BrokerSilo.grpc.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/grpc_proto.dir/BrokerSilo.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/BrokerSilo.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/BrokerSilo.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/grpc_proto.dir/UserBroker.grpc.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/UserBroker.grpc.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/UserBroker.grpc.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/grpc_proto.dir/UserBroker.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/UserBroker.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/UserBroker.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/grpc_proto.dir/SiloFilter.grpc.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/SiloFilter.grpc.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/SiloFilter.grpc.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/grpc_proto.dir/SiloFilter.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/SiloFilter.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/SiloFilter.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite",
+  "command": "/usr/bin/c++  -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite  -march=native -std=gnu++17 -o CMakeFiles/AES.dir/crypto/AES.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/crypto/AES.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/crypto/AES.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/MilvusClientImpl.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/MilvusClientImpl.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/MilvusClientImpl.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/MilvusConnection.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/MilvusConnection.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/MilvusConnection.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/Status.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/Status.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/Status.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/TypeUtils.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/TypeUtils.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/TypeUtils.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CalcDistanceArguments.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CalcDistanceArguments.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CalcDistanceArguments.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CollectionDesc.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionDesc.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionDesc.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CollectionInfo.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionInfo.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionInfo.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CollectionSchema.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionSchema.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionSchema.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CollectionStat.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionStat.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CollectionStat.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CompactionPlan.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CompactionPlan.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CompactionPlan.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/CompactionState.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CompactionState.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/CompactionState.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/ConnectParam.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/ConnectParam.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/ConnectParam.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/DistanceArray.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/DistanceArray.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/DistanceArray.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/DmlResults.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/DmlResults.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/DmlResults.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/FieldData.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/FieldData.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/FieldData.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/FieldSchema.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/FieldSchema.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/FieldSchema.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/HybridTimestamp.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/HybridTimestamp.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/HybridTimestamp.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/IDArray.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/IDArray.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/IDArray.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/IndexDesc.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/IndexDesc.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/IndexDesc.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/IndexState.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/IndexState.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/IndexState.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/PartitionInfo.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/PartitionInfo.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/PartitionInfo.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/PartitionStat.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/PartitionStat.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/PartitionStat.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/ProgressMonitor.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/ProgressMonitor.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/ProgressMonitor.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/QueryArguments.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/QueryArguments.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/QueryArguments.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/QueryResults.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/QueryResults.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/QueryResults.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/SearchArguments.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/SearchArguments.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/SearchArguments.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/SearchResults.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/SearchResults.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/SearchResults.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/impl/types/SegmentInfo.cpp.o -c /home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/SegmentInfo.cpp",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/milvus/impl/types/SegmentInfo.cpp"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/__/refs/milvus_proto-build/schema.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/schema.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/schema.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/__/refs/milvus_proto-build/common.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/common.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/common.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/__/refs/milvus_proto-build/msg.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/msg.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/msg.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/__/refs/milvus_proto-build/feder.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/feder.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/feder.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/__/refs/milvus_proto-build/milvus.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/milvus.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/milvus.pb.cc"
+},
+{
+  "directory": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/milvus",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build -I/home/zhaoyanhao/project/FedVS/cpp/milvus/include -I/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/nlohmann_json-src/include -isystem /home/zhaoyanhao/.local/include  -march=native -std=gnu++17 -o CMakeFiles/milvus_sdk.dir/__/refs/milvus_proto-build/milvus.grpc.pb.cc.o -c /home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/milvus.grpc.pb.cc",
+  "file": "/home/zhaoyanhao/project/FedVS/cpp/buildSQLite/refs/milvus_proto-build/milvus.grpc.pb.cc"
+}
+]
